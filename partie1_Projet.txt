@@ -2,7 +2,9 @@ Dans cette partie 1 je décrirais ce qu'est git.
 
 Git permet de versionner son code. 
 Ca permet de suivre son code tout au long du processus de codage et de pouvoir retrouver
-les versions antérieures. 
-Un des avantage de git est d'être un modèle distribué de sauvegarde de code. 
-Ainsi le code sera sur plusieurs ordinateurs différents et ne pourra donc pas être 
-perdu. 
+les versions antérieures. Git est un modèle distribué de sauvegarde de code. Ainsi le code est 
+sur toutes les machines et elles y ont donc toutes accès.
+
+
+Github permet de mettre son code en ligne.
+Ainsi chaque participant, d'où qu'il soit pourra modifier le code. 
